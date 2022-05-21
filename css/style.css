@@ -511,55 +511,55 @@ ol li {
 }
 
 .p-t10 {
-  padding-top: 10px;
+  padding-top: 0px;
 }
 
 .p-t15 {
-  padding-top: 15px;
+  padding-top: 1px;
 }
 
 .p-t20 {
-  padding-top: 20px;
+  padding-top: 0px;
 }
 
 .p-t30 {
-  padding-top: 30px;
+  padding-top: 0px;
 }
 
 .p-t40 {
-  padding-top: 40px;
+  padding-top: 0px;
 }
 
 .p-t50 {
-  padding-top: 50px;
+  padding-top: 0px;
 }
 
 .p-t60 {
-  padding-top: 60px;
+  padding-top: 0px;
 }
 
 .p-t70 {
-  padding-top: 70px;
+  padding-top: 0px;
 }
 
 .p-t80 {
-  padding-top: 80px;
+  padding-top: 0px;
 }
 
 .p-t90 {
-  padding-top: 90px;
+  padding-top: 0px;
 }
 
 .p-t100 {
-  padding-top: 100px;
+  padding-top: 0px;
 }
 
 .p-t110 {
-  padding-top: 110px;
+  padding-top: 0px;
 }
 
 .p-t120 {
-  padding-top: 120px;
+  padding-top: 0px;
 }
 
 .p-t130 {
@@ -620,7 +620,7 @@ ol li {
 }
 
 .p-b90 {
-  padding-bottom: 90px;
+  padding-bottom: 0px;
 }
 
 .p-b100 {
@@ -5206,12 +5206,12 @@ THEMEFOREST REQUIRED CLASSES
 
 /*Title separators*/
 .wt-separator-two-part {
-  padding-bottom: 50px;
+  padding-bottom: 5px;
 }
 
 @media (max-width: 991px) {
   .wt-separator-two-part {
-    padding-bottom: 30px;
+    padding-bottom: 3px;
   }
 }
 
@@ -6478,7 +6478,7 @@ THEMEFOREST REQUIRED CLASSES
 @media (max-width: 991px) {
   .home-client-outer {
     text-align: center;
-    margin-top: 30px;
+    margin-top: 0px;
   }
   .home-client-outer .section-head.left.wt-small-separator-outer {
     text-align: center;
@@ -6497,11 +6497,11 @@ THEMEFOREST REQUIRED CLASSES
 
 .home-client-carousel2 {
   padding: 0px;
-  margin-bottom: 30px;
+  margin-bottom: 0px;
 }
 
 .home-client-carousel2 .client-logo {
-  max-width: 130px;
+  max-width: 120px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -6552,7 +6552,7 @@ THEMEFOREST REQUIRED CLASSES
 }
 
 .footer-dark .footer-top [class*="col-"] {
-  padding-top: 40px;
+  padding-top: 0px;
   border-right: 1px solid #404040;
 }
 
@@ -6593,7 +6593,7 @@ THEMEFOREST REQUIRED CLASSES
   font-weight: 700;
   font-size: 20px;
   margin-bottom: 30px;
-  padding-bottom: 10px;
+  padding-bottom: 1px;
   position: relative;
 }
 
@@ -9017,8 +9017,8 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 
 @media (max-width: 991px) {
   .section-full.p-t120, .section-full.p-b90, .section-full.p-tb120 {
-    padding-top: 38px;
-    padding-bottom: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
   }
 }
 
