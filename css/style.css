@@ -12316,6 +12316,19 @@ STEP NUMBER
   font-size: 12px;
   font-weight: 400;
 }
+.para{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.para1{
+    text-align: center;
+}
+.para2{
+    padding-top: 0px;
+    margin-top: 0px;
+}
 
 select {
   appearance: none;
