@@ -40,6 +40,9 @@ img {vertical-align: middle;}
   display: inline-block;
   transition: background-color 0.6s ease;
 }
+.client-loga{
+    max-width: 200px;    
+}
 
 .active {
   background-color: #717171;
